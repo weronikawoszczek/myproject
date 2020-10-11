@@ -1,7 +1,7 @@
 .DS_Store
 node_modules/
 dist/
-*.html
+#*.html
 !/src/*.html
 .idea/
 package-lock.json
