@@ -29,7 +29,7 @@
     }
   }
   &__main{
-    background: url(/dist/assets/img/main.png) no-repeat center center;
+    background: url(./..//img/main.png) no-repeat center center;
     background-size: cover;
     @include media-breakpoint-down(sm) {
       display: none;

@@ -135,7 +135,7 @@ nav {
 }
 
 .loader {
-  background: url(/dist/assets/img/product2.png) no-repeat center center;
+  background: url(./..//img/product2.png) no-repeat center center;
   background-size: cover;
   height: 100%;
   @include media-breakpoint-down(md) {
